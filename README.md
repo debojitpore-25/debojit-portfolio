@@ -35,7 +35,7 @@ The project follows a modular structure to keep the codebase organized, maintain
 ## 🌐 Live Demo
 
 **Live Portfolio:**
-[ ]
+[https://debojit-portfolio-snowy.vercel.app/]
 
 ## 📌 Featured Projects
 
